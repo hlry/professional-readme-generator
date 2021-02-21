@@ -1,7 +1,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# Run Budy
+# Run Buddy
 
 ## Table of Contents
 * [Description](#Description)
@@ -18,7 +18,7 @@
 A webapp to help you customize your training needs to your budget!
 
 ## Features
-Using HTML, CSS, and Google Maps!
+Using HTML and CSS
 
 ## Installation
 Clone this project to your local machine.
@@ -36,10 +36,10 @@ n/a
 
 ## LICENSE
 This repository is licensed under the 'Apache License 2.0'.
-Refer to https://opensource.org/licenses/Apache-2.0 for complete license terms.
+Refer to https://opensource.org/licenses/Apache-2.0) for complete license terms.
 
 ## CONTRIBUTING
-Please sign our Contributor License Agreement (CLA) if you're interested in contributing or reporting issues.
+Please sign our Contributor License Agreement (CLA) if you're interested in contributing to this project or submitting any issues.
 
 ## Credits
 Significant collaborators to this project are (or will be) listed here:
