@@ -8,33 +8,40 @@
 
 ## Table of Contents
 * [Description](#Description)
+* [Demonstration](#Demonstration)
+* [Example Output Readme](#Example)
 * [Features](#Features)
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Tests](#Tests)
 * [LICENSE](#LICENSE)
 * [CONTRIBUTING](#CONTRIBUTING)
-* [Collaborators](#Credits)
 * [Questions](#Questions)
 
 ## Description
 This project will help you generate a professional README file in markdown format using node and your Command Line Interface.
 
+## Demonstration
+Demo video: Professional
+
+## Sample
+![demo-readme-screen](./assets/ReadmeScreenshot.png)
+
 ## Features
 Utilizes javascript, node, npm (including Inquire), and markdown formats to bring you the README of your dreams.
 
 ## Installation
-Clone this project to your local machine.
+Clone this project from GitHub to your local machine.
+
+To install dependencies, run the following in your Command Line Interface (e.g., Terminal or Bash):
+- npm init
+- npm install manager
 
 ## Usage
-Run the following command in your Command Line Interface:
-node index
-
-## Tests
-n/a
+Then run the following command:
+- node index
 
 ## LICENSE
-This repository is licensed under the 'Apache License 2.0' license.
+This repository is licensed under the 'Apache License 2.0'.
 Refer to https://opensource.org/licenses/Apache-2.0) for complete license terms.
 
 ## CONTRIBUTING

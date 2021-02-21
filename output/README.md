@@ -26,9 +26,7 @@ Clone this project to your local machine.
 Run the following command in your Command Line Interface:
 node index
 
-See CLI command being run in Terminal at the bottom of VSCode
-![Screenshot of VSCode with Terminal at Bottom]
-(./assets/ReadmeScreenshot.png)
+The resulting README file will be found in the "output" folder.
 
 ## LICENSE
 This repository is licensed under the 'Apache License 2.0' license.
