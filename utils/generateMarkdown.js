@@ -97,7 +97,7 @@ See CLI command being run in Terminal at the bottom of VSCode
 ${data.tests}
 
 ## LICENSE
-This repository is licensed under the '${renderLicenseSection(data.license)}' license.
+This repository is licensed under the '${renderLicenseSection(data.license)}'.
 Refer to ${renderLicenseLink(data.license)} for complete license terms.
 
 ## CONTRIBUTING
