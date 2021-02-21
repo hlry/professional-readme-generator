@@ -8,7 +8,6 @@
 * [Features](#Features)
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Tests](#Tests)
 * [LICENSE](#LICENSE)
 * [CONTRIBUTING](#CONTRIBUTING)
 * [Collaborators](#Collaborators)
@@ -18,7 +17,7 @@
 A webapp to help you customize your training needs to your budget!
 
 ## Features
-Using HTML and CSS
+Using HTML, CSS, and Google maps!
 
 ## Installation
 Clone this project to your local machine.
@@ -31,15 +30,12 @@ See CLI command being run in Terminal at the bottom of VSCode
 ![Screenshot of VSCode with Terminal at Bottom]
 (./assets/ReadmeScreenshot.png)
 
-## Tests
-n/a
-
 ## LICENSE
 This repository is licensed under the 'Apache License 2.0' license.
 Refer to https://opensource.org/licenses/Apache-2.0) for complete license terms.
 
 ## CONTRIBUTING
-Please sign our contributor license agreement if you're interested in contributing.
+Please sign our contributor license agreement if you're interested in contributing to this project!
 
 ## Credits
 Significant collaborators to this project are (or will be) listed here:
