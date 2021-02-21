@@ -1,10 +1,7 @@
-# Professional README Generator by HLRY
-
-
-[How to create a Professional README](./readme-guide.md)
-
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+# n/a
 
 ## Table of Contents
 * [Description](#Description)
@@ -14,14 +11,14 @@
 * [Tests](#Tests)
 * [LICENSE](#LICENSE)
 * [CONTRIBUTING](#CONTRIBUTING)
-* [Collaborators](#Credits)
+* [Collaborators](#Collaborators)
 * [Questions](#Questions)
 
 ## Description
-This project will help you generate a professional README file in markdown format using node and your Command Line Interface.
+n/a
 
 ## Features
-Utilizes javascript, node, npm (including Inquire), and markdown formats to bring you the README of your dreams.
+
 
 ## Installation
 Clone this project to your local machine.
@@ -30,20 +27,26 @@ Clone this project to your local machine.
 Run the following command in your Command Line Interface:
 node index
 
+See CLI command being run in Terminal at the bottom of VSCode
+![Screenshot of VSCode with Terminal at Bottom]
+(./assets/ReadmeScreenshot.png)
+
 ## Tests
-n/a
+
 
 ## LICENSE
 This repository is licensed under the 'Apache License 2.0' license.
 Refer to https://opensource.org/licenses/Apache-2.0) for complete license terms.
 
 ## CONTRIBUTING
-This project is not accepting contributions but if you send a pull request, it could be accepted under the terms of the Apache 2.0 license.
+undefined
 
 ## Credits
 Significant collaborators to this project are (or will be) listed here:
-hamburgler
+undefined
 
 ## Questions
 
-If you have questions contact me on GitHub at [hlry](https://github.com/hlry).
+If you have questions contact me
+GitHub: [hlry](https://github.com/hlry)
+
