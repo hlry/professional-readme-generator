@@ -9,7 +9,7 @@
 ## Table of Contents
 * [Description](#Description)
 * [Demonstration](#Demonstration)
-* [Example Output Readme](#Example)
+* [Example Output Readme](#Sample)
 * [Features](#Features)
 * [Installation](#Installation)
 * [Usage](#Usage)
